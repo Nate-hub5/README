@@ -24,7 +24,5 @@ Sentiment Analysis
 
 Current Project: 
 
-  These project stem from pure interest into each topic. 
-
-    1. Demand forecasting in manufacturing
-    2. Sentiment analysis in social media
+   1. Demand forecasting in manufacturing
+   2. Sentiment analysis in social media
